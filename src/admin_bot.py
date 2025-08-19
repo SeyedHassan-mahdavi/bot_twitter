@@ -705,7 +705,7 @@ SESSION_PATH = "sessions/+989137552590.session"
 GROUP_ID = -1002045713309
 
 BOT_TOKEN = "7981096982:AAEq8oDaFqO0S3syUKExHE97P_tNcf1Zbu8"
-ADMIN_IDS = [5018729099,233482937]  # آی‌دی عددی ادمین
+ADMIN_IDS = [5018729099,233482937,663040344]  # آی‌دی عددی ادمین
 
 engine = get_engine()
 session = get_session(engine)

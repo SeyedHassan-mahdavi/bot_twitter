@@ -1,0 +1,6 @@
+python-telegram-bot==22.2
+Telethon==1.40.0
+SQLAlchemy==2.0.41
+python-dotenv==1.1.1
+jdatetime==5.2.0
+matplotlib==3.10.3
