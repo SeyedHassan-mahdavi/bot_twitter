@@ -18,3 +18,8 @@ logs/
 .vscode/
 .idea/
 *.swp
+
+
+*.sqlite
+*.db
+/data/
