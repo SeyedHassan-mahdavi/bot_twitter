@@ -711,7 +711,7 @@ engine = get_engine()
 session = get_session(engine)
 
 SELECT_CAMPAIGN, SEARCH_CAMPAIGN, DATE_RANGE, FILTERS, CONFIRM = range(5)
-PAGE_SIZE = 10
+PAGE_SIZE = 12
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if update.effective_user.id not in ADMIN_IDS:
